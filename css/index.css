@@ -1,0 +1,12 @@
+#square {width: 200px; height: 200px; background-color: #AABBCC; padding: 50px; border: 50px solid red; margin: 50px; }
+
+.done {text-decoration: line-through;}
+
+	h1 { color: red; text-decoration: underline; font-size: 60px; 
+
+}
+.important {font-size: 100px}
+#tomorrow li{font-weight: bold;}
+ul li {color: blue }
+ol li {color: red}
+
